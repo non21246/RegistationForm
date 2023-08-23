@@ -11,7 +11,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/ts-node-mongo-rest-api-tutorial.git
+git clone https://github.com/non21246/RegistationForm.git
 ```
 
 ### Install packages
